@@ -1,3 +1,16 @@
+This is a project called "Abe's Amazing Adventure!!"
+
+It was not created by me, but I decided to convert its repository from CVS to
+git and maybe update it in the future so that it works on Windows 10 or
+something. This project was originally created by gabortorok (Gabor Torok) on
+SourceForge (which may be the same person as the GitHub user 
+[gabortorok](https://github.com/gabortorok).
+
+Here are links to the original page:
+
+<http://abe.sourceforge.net/> | <https://sourceforge.net/projects/abe/>
+
+
 -------------------------
 Abe's Amazing Adventure!!
 -------------------------
